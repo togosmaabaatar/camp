@@ -1,0 +1,9 @@
+.DS_Store
+emailjs.txt
+.env
+.env.*
+!.env.example
+.vercel/
+node_modules/
+dist/
+*.log

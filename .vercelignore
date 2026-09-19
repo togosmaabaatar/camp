@@ -1,0 +1,7 @@
+.git/
+emailjs.txt
+emailjs/
+tests/
+assets/*.png
+assets/prompts.txt
+README.md

@@ -1,0 +1,586 @@
+[
+  {
+    "name": "index: English default",
+    "pass": true
+  },
+  {
+    "name": "index: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "index: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "index: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "index: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "index: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "index: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "index: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "index: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "index: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "index: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "index: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "index: language follows links",
+    "pass": true
+  },
+  {
+    "name": "index: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "index: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "stay: English default",
+    "pass": true
+  },
+  {
+    "name": "stay: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "stay: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "stay: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "stay: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "stay: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "stay: language follows links",
+    "pass": true
+  },
+  {
+    "name": "stay: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "stay: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "experiences: English default",
+    "pass": true
+  },
+  {
+    "name": "experiences: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "experiences: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "experiences: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "experiences: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "experiences: language follows links",
+    "pass": true
+  },
+  {
+    "name": "experiences: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "experiences: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "about: English default",
+    "pass": true
+  },
+  {
+    "name": "about: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "about: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "about: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "about: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "about: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "about: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "about: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "about: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "about: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "about: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "about: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "about: language follows links",
+    "pass": true
+  },
+  {
+    "name": "about: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "about: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "getting-here: English default",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "getting-here: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "getting-here: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "getting-here: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "getting-here: language follows links",
+    "pass": true
+  },
+  {
+    "name": "getting-here: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "getting-here: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "FAQ opens",
+    "pass": true
+  },
+  {
+    "name": "contact: English default",
+    "pass": true
+  },
+  {
+    "name": "contact: 320 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 320 en translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 320 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 320 mn translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 390 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 390 en translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 390 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 390 mn translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 768 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 768 en translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 768 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 768 mn translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 1440 en no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 1440 en translations",
+    "pass": true
+  },
+  {
+    "name": "contact: 1440 mn no overflow",
+    "pass": true
+  },
+  {
+    "name": "contact: 1440 mn translations",
+    "pass": true
+  },
+  {
+    "name": "contact: mobile menu opens",
+    "pass": true
+  },
+  {
+    "name": "contact: escape closes menu",
+    "pass": true
+  },
+  {
+    "name": "contact: language follows links",
+    "pass": true
+  },
+  {
+    "name": "contact: social dialog opens",
+    "pass": true
+  },
+  {
+    "name": "contact: social dialog closes",
+    "pass": true
+  },
+  {
+    "name": "unconfigured form honest English status",
+    "pass": true
+  },
+  {
+    "name": "status switches to Mongolian",
+    "pass": true
+  },
+  {
+    "name": "language switch keeps entered values",
+    "pass": true
+  },
+  {
+    "name": "failure keeps values",
+    "pass": true
+  },
+  {
+    "name": "duplicate submission blocked",
+    "pass": true
+  },
+  {
+    "name": "pending button disabled",
+    "pass": true
+  },
+  {
+    "name": "pending state translated",
+    "pass": true
+  },
+  {
+    "name": "success explains not confirmed",
+    "pass": true
+  },
+  {
+    "name": "email includes inquiry details",
+    "pass": true
+  },
+  {
+    "name": "form resets on success",
+    "pass": true
+  },
+  {
+    "name": "past date blocked",
+    "pass": true
+  },
+  {
+    "name": "stay preference survives page navigation",
+    "pass": true
+  },
+  {
+    "name": "language query restored",
+    "pass": true
+  }
+]
